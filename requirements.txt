@@ -1,0 +1,12 @@
+astropy
+bottleneck
+h5py
+matplotlib
+numpy
+obspy
+pandas
+pyproj
+pyyaml
+scipy
+setuptools
+tqdm

@@ -1,0 +1,17 @@
+name: threestation
+channels:
+    - conda-forge
+dependencies:
+    - astropy
+    - bottleneck
+    - h5py
+    - jupyterlab
+    - matplotlib
+    - numpy
+    - obspy
+    - pandas
+    - pyproj
+    - pyyaml
+    - scipy
+    - setuptools
+    - tqdm
